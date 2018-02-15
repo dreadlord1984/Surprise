@@ -22,3 +22,5 @@ Gemfile.lock
 _site
 
 .coverage
+tags
+settings.json
